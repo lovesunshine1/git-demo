@@ -18,4 +18,5 @@ hello git
 hello git
 hello git master12345
 hello git
+hello git hot-fix12345
 hello git
